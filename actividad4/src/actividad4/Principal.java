@@ -16,5 +16,16 @@ public class Principal {
 		System.out.println(suma);
 		
 	}
+	
+	public void restar() {
+		int a=3;
+		int b=5;
+		int resta=0;
+		
+		resta=a-b;
+		System.out.println(resta);
+		
+	}
+
 
 }
