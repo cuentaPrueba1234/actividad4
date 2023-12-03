@@ -6,5 +6,15 @@ public class Principal {
 		System.out.println("Hola amigos");
 
 	}
+	
+	public void sumar() {
+		int a=3;
+		int b=5;
+		int suma=0;
+		
+		suma=a+b;
+		System.out.println(suma);
+		
+	}
 
 }
